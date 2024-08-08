@@ -1,0 +1,100 @@
+# Support for EdSquared
+
+Welcome to the EdSquared Support Page. Here you will find resources and contact information to help you with any issues or questions you may have about our app.
+
+## Contact Us
+
+If you need assistance, please reach out to our support team:
+
+- **Email**: [sighted_seminal_07@icloud.com](mailto:sighted_seminal_07@icloud.com)
+
+## Frequently Asked Questions (FAQs)
+
+### How do I reset my password?
+
+To reset your password, follow these steps:
+1. Open the EdSquared app.
+2. Click on "Forgot Password" on the login screen.
+3. Enter your registered email address.
+4. Follow the instructions sent to your email to reset your password.
+
+### How can I update my profile information?
+
+To update your profile information:
+1. Go to the "Profile" section in the app.
+2. Click on "Edit Profile".
+3. Update your information and click "Save".
+
+### How do I contact my tutor?
+
+To contact your tutor:
+1. Go to the "Tutors" section in the app.
+2. Select your tutor from the list.
+3. Click on "Message" to send a direct message to your tutor.
+
+## Tutor and Student Features
+
+### How do tutors create an admin account?
+
+1. Tutors can create an admin account by signing up on the app.
+2. They will receive a verification email.
+3. Tutors need to verify their account using the link in the email.
+4. Once verified, they can send a verification code to their students to connect.
+
+### What data can tutors and students see?
+
+- **Tutors**: Can see all the data input by their connected students, including grades, confidence levels, and historical records. Tutors can also see and add lesson reports and give feedback per student per subject.
+- **Students**: Can see their own data, including grades, confidence levels, and feedback from their tutor. Students can also see lesson reports added by their tutor.
+
+### How are grades and subjects managed?
+
+- **Grades**: Students can input one grade per subject per day. If a new grade is added on the same day, it will overwrite the previous one.
+- **Subjects**: Students must choose from a broad list of subjects before adding grades. The dropdown menu for adding grades will fetch the student's added subjects.
+
+### What can admins do?
+
+- Admins can see all students' confidence levels, grades, and historical records.
+- Admins can add lesson reports, which can be seen by both admins and students.
+- Homeworks are general per student, but feedback and lesson reports are specific to each student and subject.
+
+### How does the AI feature work for tutors?
+
+- Tutors can input keywords or draft feedback and lesson reports.
+- The "Write with AI" feature will enhance and polish the text by replacing the tutor-written text with AI-generated content.
+
+## User Guides
+
+### Getting Started
+
+- [Download and Install](#): Instructions on how to download and install EdSquared.
+- [Account Setup](#): Steps to create and set up your EdSquared account.
+- [Navigating the App](#): Overview of the app’s features and navigation.
+
+### Tutorials
+
+- [Adding Grades](#): How to add and manage student grades.
+- [Viewing Reports](#): Instructions on how to view and generate reports.
+
+## Community Resources
+
+- [EdSquared Community Forum](#): Join our community forum to connect with other users, ask questions, and share knowledge.
+- [Feedback and Suggestions](#): We value your feedback! Submit your suggestions to help us improve EdSquared.
+
+## Technical Support
+
+If you are experiencing technical issues with the app, please try the following troubleshooting steps:
+1. Make sure you are using the latest version of the app.
+2. Restart your device.
+3. Check your internet connection.
+
+If the issue persists, please contact our technical support team at [sighted_seminal_07@icloud.com](mailto:sighted_seminal_07@icloud.com).
+
+## Privacy Policy
+
+Read our [Privacy Policy](https://github.com/your-username/privacy-policy/blob/main/privacy-policy.md) to learn how we handle your data.
+
+---
+
+Thank you for using EdSquared. We are here to help you succeed in your educational journey.
+
+EdSquared Support Team
