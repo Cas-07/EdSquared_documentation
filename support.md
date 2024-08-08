@@ -2,36 +2,6 @@
 
 Welcome to the EdSquared Support Page. Here you will find resources and contact information to help you with any issues or questions you may have about our app.
 
-## Contact Us
-
-If you need assistance, please reach out to our support team:
-
-- **Email**: [sighted_seminal_07@icloud.com](mailto:sighted_seminal_07@icloud.com)
-
-## Frequently Asked Questions (FAQs)
-
-### How do I reset my password?
-
-To reset your password, follow these steps:
-1. Open the EdSquared app.
-2. Click on "Forgot Password" on the login screen.
-3. Enter your registered email address.
-4. Follow the instructions sent to your email to reset your password.
-
-### How can I update my profile information?
-
-To update your profile information:
-1. Go to the "Profile" section in the app.
-2. Click on "Edit Profile".
-3. Update your information and click "Save".
-
-### How do I contact my tutor?
-
-To contact your tutor:
-1. Go to the "Tutors" section in the app.
-2. Select your tutor from the list.
-3. Click on "Message" to send a direct message to your tutor.
-
 ## Tutor and Student Features
 
 ### How do tutors create an admin account?
@@ -44,7 +14,7 @@ To contact your tutor:
 ### What data can tutors and students see?
 
 - **Tutors**: Can see all the data input by their connected students, including grades, confidence levels, and historical records. Tutors can also see and add lesson reports and give feedback per student per subject.
-- **Students**: Can see their own data, including grades, confidence levels, and feedback from their tutor. Students can also see lesson reports added by their tutor.
+- **Students**: Can see their own data, including grades and confidence levels. Students can also see feedback, lesson reports, and homework added by their tutor.
 
 ### How are grades and subjects managed?
 
@@ -66,19 +36,17 @@ To contact your tutor:
 
 ### Getting Started
 
-- [Download and Install](#): Instructions on how to download and install EdSquared.
-- [Account Setup](#): Steps to create and set up your EdSquared account.
-- [Navigating the App](#): Overview of the app’s features and navigation.
+- **Download and Install**: Search for "EdSquared" on the App Store.
+- **Account Setup**: Sign up on the "Register" screen and either use the code provided by your tutor or create an admin account if you are signing up as a tutor.
+- **Navigating the App**: Use the dedicated buttons from your dashboard to navigate to the respective views of information you would like to see.
 
-### Tutorials
+### Password Management
 
-- [Adding Grades](#): How to add and manage student grades.
-- [Viewing Reports](#): Instructions on how to view and generate reports.
+- **Password Safety**: To keep your account secure, we recommend using a password manager to store your password safely. This helps you remember your password and prevents unauthorized access.
 
 ## Community Resources
 
-- [EdSquared Community Forum](#): Join our community forum to connect with other users, ask questions, and share knowledge.
-- [Feedback and Suggestions](#): We value your feedback! Submit your suggestions to help us improve EdSquared.
+- **Feedback and Suggestions**: We value your feedback! Submit your suggestions to help us improve EdSquared by contacting us at [sighted_seminal_07@icloud.com](mailto:sighted_seminal_07@icloud.com).
 
 ## Technical Support
 
@@ -86,6 +54,7 @@ If you are experiencing technical issues with the app, please try the following 
 1. Make sure you are using the latest version of the app.
 2. Restart your device.
 3. Check your internet connection.
+4. Uninstall and reinstall the app.
 
 If the issue persists, please contact our technical support team at [sighted_seminal_07@icloud.com](mailto:sighted_seminal_07@icloud.com).
 
