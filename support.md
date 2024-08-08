@@ -61,6 +61,7 @@ If the issue persists, please contact our technical support team at [sighted_sem
 ## Privacy Policy
 
 Read our [Privacy Policy](https://github.com/Cas-07/privacy-policy/blob/main/privacy-policy.md) to learn how we handle your data.
+
 ---
 
 Thank you for using EdSquared. We are here to help you succeed in your educational journey.
