@@ -8,8 +8,8 @@ Welcome to the EdSquared Support Page. Here you will find resources and contact 
 
 1. Tutors can create an admin account by signing up on the app.
 2. They will receive a verification email.
-3. Tutors need to verify their account using the link in the email.
-4. Once verified, they can send a verification code to their students to connect.
+3. Tutors need to verify their account using the code in the email.
+4. Once verified, they can send the verification code to their students to connect.
 
 ### What data can tutors and students see?
 
