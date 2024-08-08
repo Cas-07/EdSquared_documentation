@@ -32,7 +32,7 @@ To the fullest extent permitted by law, EdSquared shall not be liable for any in
 
 ## 7. Dispute Resolution
 
-Any disputes arising from or related to these Terms or the App will be resolved through binding arbitration in accordance with the rules of [insert applicable arbitration association].
+Any disputes arising from or related to these Terms or the App will be resolved through binding arbitration in accordance with the rules of the [European Court of Arbitration (ECA)](https://www.european-arbitration.org/).
 
 ## 8. Changes to Terms
 
