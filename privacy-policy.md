@@ -51,7 +51,7 @@ To exercise these rights, please contact us at sighted_seminal_07@icloud.com.
 
 ## 7. Terms of Service
 
-By creating an account with EdSquared, you agree to our [Terms of Service](https://github.com/Cas-07/terms-of-service/blob/main/terms-of-service.md). Please review these Terms carefully before using the App.
+By creating an account with EdSquared, you agree to our [Terms of Service](https://github.com/Cas-07/privacy-policy/blob/main/terms-of-service.md). Please review these Terms carefully before using the App.
 
 ## 8. Changes to This Privacy Policy
 
