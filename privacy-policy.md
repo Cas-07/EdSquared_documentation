@@ -49,11 +49,15 @@ Depending on your location, you may have the following rights:
 
 To exercise these rights, please contact us at sighted_seminal_07@icloud.com.
 
-## 7. Changes to This Privacy Policy
+## 7. Terms of Service
+
+By creating an account with EdSquared, you agree to our [Terms of Service](https://github.com/Cas-07/terms-of-service/blob/main/terms-of-service.md). Please review these Terms carefully before using the App.
+
+## 8. Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
 
-## 8. Contact Information
+## 9. Contact Information
 
 If you have any questions or concerns about this Privacy Policy, please contact us at sighted_seminal_07@icloud.com.
 
