@@ -24,6 +24,7 @@ We use the collected data to:
 - **Improve User Experience**: Understand how you use the app to improve features and usability.
 - **Communications**: Send you updates, security alerts, and support messages.
 - **Tutor Access**: Allow tutors to view the educational information that students input into the app for the purpose of providing educational support and feedback.
+- **AI-Assisted Feedback**: Use AI to write feedback and lesson reports only if the admin chooses to use this feature by clicking the corresponding button.
 
 ## 4. Sharing Your Information
 
