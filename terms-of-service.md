@@ -34,11 +34,22 @@ To the fullest extent permitted by law, EdSquared shall not be liable for any in
 
 Any disputes arising from or related to these Terms or the App will be resolved through binding arbitration in accordance with the rules of the European Court of Arbitration (ECA).
 
-## 8. Changes to Terms
+## 8. Reporting Violations
+
+If you encounter any problems or need to report content that violates our Terms of Service, please send an email to [sighted_seminal_07@icloud.com](mailto:sighted_seminal_07@icloud.com) with detailed information, including but not limited to:
+
+- The content in question
+- The date the content was made
+- The admin code used to onboard students (if a student is reporting an admin)
+- The student's full name (if an admin is reporting a student)
+
+We will review your report and address your concerns as promptly as possible.
+
+## 9. Changes to Terms
 
 We may update these Terms from time to time. We will notify you of any changes by posting the new Terms on this page. Your continued use of the App after any changes constitutes your acceptance of the new Terms.
 
-## 9. Contact Information
+## 10. Contact Information
 
 For any questions about these Terms, please contact us at [sighted_seminal_07@icloud.com](mailto:sighted_seminal_07@icloud.com).
 
