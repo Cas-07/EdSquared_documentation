@@ -48,6 +48,17 @@ Welcome to the EdSquared Support Page. Here you will find resources and contact 
 
 - **Feedback and Suggestions**: We value your feedback! Submit your suggestions to help us improve EdSquared by contacting us at [sighted_seminal_07@icloud.com](mailto:sighted_seminal_07@icloud.com).
 
+## Reporting Violations
+
+If you encounter any problems or need to report content that violates our Terms of Service, please send an email to [sighted_seminal_07@icloud.com](mailto:sighted_seminal_07@icloud.com) with detailed information, including but not limited to:
+
+- The content in question
+- The date the content was made
+- The admin code used to onboard students (if a student is reporting an admin)
+- The student's full name (if an admin is reporting a student)
+
+We will review your report and address your concerns as promptly as possible.
+
 ## Technical Support
 
 If you are experiencing technical issues with the app, please try the following troubleshooting steps:
