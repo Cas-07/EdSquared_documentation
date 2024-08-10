@@ -75,11 +75,6 @@ Read our [Privacy Policy](https://github.com/Cas-07/privacy-policy/blob/main/pri
 
 ## Frequently Asked Questions (FAQ)
 
-### General Questions
-
-**Q: How do I sign up for an account on EdSquared?**
-A: On the "Register" screen, use the code provided by your tutor or create an admin account if you are signing up as a tutor (be sure to check the checkbox that says "Tutor").
-
 ### Tutor-Specific Questions
 
 **Q: How do I create an admin account as a tutor?**
