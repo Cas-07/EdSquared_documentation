@@ -13,7 +13,7 @@ Welcome to the EdSquared Support Page. Here you will find resources and contact 
 
 ### What data can tutors and students see?
 
-- **Tutors**: Can see all the data input by their connected students, including grades, confidence levels, and historical records. Tutors can also see and add lesson reports and give feedback per student per subject.
+- **Tutors**: Can see all the data input by their connected students, including grades, confidence levels, and historical records. Tutors can also see and add lesson reports and give feedback per student per subject. **Note**: if a student's subjects aren't visible yet it is because they haven't added any grade for that subject. A subject will become visible to the admin once at least one grade is added. 
 - **Students**: Can see their own data, including grades and confidence levels. Students can also see feedback, lesson reports, and homework added by their tutor.
 
 ### How are grades and subjects managed?
