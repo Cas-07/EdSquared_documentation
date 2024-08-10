@@ -84,7 +84,7 @@ A: Sign up on the app, verify your account using the code sent to your email, an
 A: Tutors can see all data input by their connected students, including grades, confidence levels, historical records, lesson reports, and feedback per student per subject.
 
 **Q: Why can’t I see all/any of my students' subjects?**
-A: **Note**: If a student's subjects aren't visible yet it is because they haven't added any grade for that subject. A subject will become visible to the admin once at least one grade is added.
+A: If a student's subjects aren't visible yet it is because they haven't added any grade for that subject. A subject will become visible to the admin once at least one grade is added.
 
 **Q: How do I use the AI feature to enhance feedback and lesson reports?**
 A: Input keywords or draft your feedback and lesson reports, then use the "Write with AI" feature to enhance and polish the text with AI-generated content.
