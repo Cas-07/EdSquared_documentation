@@ -59,7 +59,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ## 9. Contact Information
 
-If you have any questions or concerns about this Privacy Policy, please contact us at sighted_seminal_07@icloud.com.
+If you have any questions or concerns about this Privacy Policy, please contact us at contact.edsquared@gmail.com.
 
 Thank you for using EdSquared.
 
