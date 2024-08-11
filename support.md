@@ -46,11 +46,11 @@ Welcome to the EdSquared Support Page. Here you will find resources and contact 
 
 ## Community Resources
 
-- **Feedback and Suggestions**: We value your feedback! Submit your suggestions to help us improve EdSquared by contacting us at [sighted_seminal_07@icloud.com](mailto:contact.edsquared@gmail.com).
+- **Feedback and Suggestions**: We value your feedback! Submit your suggestions to help us improve EdSquared by contacting us at [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com).
 
 ## Reporting Violations
 
-If you encounter any problems or need to report content that violates our Terms of Service, please send an email to [sighted_seminal_07@icloud.com](mailto:contact.edsquared@gmail.com) with detailed information, including but not limited to:
+If you encounter any problems or need to report content that violates our Terms of Service, please send an email to [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com) with detailed information, including but not limited to:
 
 - The content in question
 - The date the content was made
@@ -67,7 +67,7 @@ If you are experiencing technical issues with the app, please try the following 
 3. Check your internet connection.
 4. Uninstall and reinstall the app.
 
-If the issue persists, please contact our technical support team at [sighted_seminal_07@icloud.com](mailto:sighted_seminal_07@icloud.com).
+If the issue persists, please contact our technical support team at [contact.edsquared@gmail.com](mailto:sighted_seminal_07@icloud.com).
 
 ## Privacy Policy
 
@@ -105,7 +105,7 @@ A: Try the following troubleshooting steps:
 2. Restart your device.
 3. Check your internet connection.
 4. Uninstall and reinstall the app.
-If the issue persists, please contact our technical support team at [sighted_seminal_07@icloud.com](mailto:contact.edsquared@gmail.com).
+If the issue persists, please contact our technical support team at [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com).
 
 ### Privacy and Security
 
@@ -115,7 +115,7 @@ A: Read our [Privacy Policy](https://github.com/Cas-07/privacy-policy/blob/main/
 ### Reporting and Feedback
 
 **Q: How can I provide feedback or suggestions to improve EdSquared?**
-A: Submit your suggestions by contacting us at [sighted_seminal_07@icloud.com](mailto:contact.edsquared@gmail.com).
+A: Submit your suggestions by contacting us at [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com).
 
 **Q: How do I report content that violates the Terms of Service?**
 A: Send an email to [sighted_seminal_07@icloud.com](mailto:contact.edsquared@gmail.com) with detailed information, including the content in question, the date the content was made, the admin code used to onboard students (if a student is reporting an admin), and the student's full name (if an admin is reporting a student). We will review your report and address your concerns as promptly as possible.
