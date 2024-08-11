@@ -118,10 +118,10 @@ A: Read our [Privacy Policy](https://github.com/Cas-07/privacy-policy/blob/main/
 A: Submit your suggestions by contacting us at [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com).
 
 **Q: How do I report content that violates the Terms of Service?**
-A: Send an email to [sighted_seminal_07@icloud.com](mailto:contact.edsquared@gmail.com) with detailed information, including the content in question, the date the content was made, the admin code used to onboard students (if a student is reporting an admin), and the student's full name (if an admin is reporting a student). We will review your report and address your concerns as promptly as possible.
+A: Send an email to [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com) with detailed information, including the content in question, the date the content was made, the admin code used to onboard students (if a student is reporting an admin), and the student's full name (if an admin is reporting a student). We will review your report and address your concerns as promptly as possible.
 
 ---
 
 Thank you for using EdSquared. We are here to help you succeed in your educational journey.
 
-EdSquared Support Team
+EdSquared
