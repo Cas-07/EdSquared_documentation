@@ -36,7 +36,7 @@ Any disputes arising from or related to these Terms or the App will be resolved 
 
 ## 8. Reporting Violations
 
-If you encounter any problems or need to report content that violates our Terms of Service, please send an email to [sighted_seminal_07@icloud.com](mailto:sighted_seminal_07@icloud.com) with detailed information, including but not limited to:
+If you encounter any problems or need to report content that violates our Terms of Service, please send an email to [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com) with detailed information, including but not limited to:
 
 - The content in question
 - The date the content was made
@@ -51,7 +51,7 @@ We may update these Terms from time to time. We will notify you of any changes b
 
 ## 10. Contact Information
 
-For any questions about these Terms, please contact us at [sighted_seminal_07@icloud.com](mailto:sighted_seminal_07@icloud.com).
+For any questions about these Terms, please contact us at [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com).
 
 ---
 
