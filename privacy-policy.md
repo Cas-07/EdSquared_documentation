@@ -47,7 +47,7 @@ Depending on your location, you may have the following rights:
 - **Objection**: Object to the processing of your personal data.
 - **Data Portability**: Request transfer of your personal data to another party.
 
-To exercise these rights, please contact us at sighted_seminal_07@icloud.com.
+To exercise these rights, please contact us at contact.edsquared@gmail.com.
 
 ## 7. Terms of Service
 
