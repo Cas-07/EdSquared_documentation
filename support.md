@@ -14,19 +14,20 @@ Welcome to the EdSquared Support Page. Here you will find resources and contact 
 
 ### What data can tutors and students see?
 
-- **Tutors**: Can see all the data input by their connected students, including grades, confidence levels, and historical records. Tutors can also see and add lesson reports and give feedback per student per subject.
-- **Students**: Can see their own data, including grades and confidence levels. Students can also see feedback, lesson reports, and homework added by their tutor.
+- **Tutors**: Can see all the data input by their connected students, including grades, grade types (e.g., end-of-year exam, coursework), and historical records. Tutors can also see and add lesson reports and give feedback per student per subject.
+- **Students**: Can see their own data, including grades, grade types, feedback, lesson reports, and homework added by their tutor.
 
 ### How are grades and subjects managed?
 
-- **Grades**: Students can input one grade per subject per day. If a new grade is added on the same day, it will overwrite the previous one.
-- **Subjects**: Students must choose from a broad list of subjects before adding grades. The dropdown menu for adding grades will fetch the student's added subjects.
+- **Grades**: Students can input one grade per subject per day. If a new grade is added on the same day, it will overwrite the previous one. Grade types like end-of-year exam, coursework, etc., can be selected when adding grades.
+- **Subjects**: Students must choose from a broad list of subjects before adding grades. If a subject is missing, please contact support at [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com).
+- **Tutors**: Tutors can edit subjects and add grades on behalf of their students.
 
 ### What can admins do?
 
-- Admins can see all students' confidence levels, grades, and historical records.
+- Admins can see all students' grade types (e.g., end-of-year exam, coursework), grades, and historical records.
 - Admins can add lesson reports, which can be seen by both admins and students.
-- Homeworks are general per student, but feedback and lesson reports are specific to each student and subject.
+- Homeworks are general per student, but feedback and lesson reports are specific to each student's subject.
 
 ### How does the AI feature work for tutors?
 
@@ -37,13 +38,23 @@ Welcome to the EdSquared Support Page. Here you will find resources and contact 
 
 ### Getting Started
 
-- **Download and Install**: Search for "EdSquared" on the App Store.
+- **Download and Install**: Search for "EdSquared" on the App Store, or click on this link instead [EdSquared on the App Store](https://apps.apple.com/it/app/edsquared/id6615075755?l=en-GB).
 - **Account Setup**: Sign up on the "Register" screen and either use the code provided by your tutor or create an admin account if you are signing up as a tutor (be sure to check the checkbox that says "Tutor").
 - **Navigating the App**: Use the dedicated buttons from your dashboard to navigate to the respective views of information you would like to see.
+
+### Forgot Password
+
+If you've forgotten your password, follow these steps:
+1. Click on "Forgot Password?" on the login page.
+2. Input your email and your new password.
+3. Click on the "Get Code" button to receive a verification code via email.
+4. Input the received verification code in the "Verification Code" field.
+5. Click the "Update Password" button to confirm the password change.
 
 ### Password Management
 
 - **Password Safety**: To keep your account secure, we recommend using a password manager to store your password safely. This helps you remember your password and prevents unauthorized access.
+- **Password Reset**: If you forget your password, you can reset it by following the "Forgot Password" procedure outlined above.
 
 ## Community Resources
 
@@ -68,7 +79,7 @@ If you are experiencing technical issues with the app, please try the following 
 3. Check your internet connection.
 4. Uninstall and reinstall the app.
 
-If the issue persists, please contact our technical support team at [contact.edsquared@gmail.com](mailto:sighted_seminal_07@icloud.com).
+If the issue persists, please contact our technical support team at [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com).
 
 ## Privacy Policy
 
@@ -78,29 +89,29 @@ Read our [Privacy Policy](https://github.com/Cas-07/privacy-policy/blob/main/pri
 
 ### Tutor-Specific Questions
 
-**Q: How do I create an admin account as a tutor?**
+**Q: How do I create an admin account as a tutor?**  
 A: Sign up on the app, verify your account using the code sent to your email, and then you can send verification codes to your students to connect with them.
 
-**Q: What data can I see as a tutor?**
-A: Tutors can see all data input by their connected students, including grades, confidence levels, historical records, lesson reports, and feedback per student per subject.
+**Q: What data can I see as a tutor?**  
+A: Tutors can see all data input by their connected students, including grades, grade types (e.g., end-of-year exam, coursework), historical records, lesson reports, and feedback per student per subject.
 
-**Q: Why does it say N/A for all/any of my students' subjects in the grades column?**
+**Q: Why does it say N/A for all/any of my students' subjects in the grades column?**  
 A: If a student's grades are N/A it is because they haven't added any grade for that subject yet. A subject will contain the last added grade in the "Grade" column, which will then be visible and should replace N/A.
 
-**Q: How do I use the AI feature to enhance feedback and lesson reports?**
+**Q: How do I use the AI feature to enhance feedback and lesson reports?**  
 A: Input keywords or draft your feedback and lesson reports, then use the "Write with AI" feature to enhance and polish the text with AI-generated content.
 
 ### Student-Specific Questions
 
-**Q: What data can I see as a student?**
-A: Students can see their own data, including grades, confidence levels, feedback, lesson reports, and homework added by their tutor.
+**Q: What data can I see as a student?**  
+A: Students can see their own data, including grades, grade types (e.g., end-of-year exam, coursework), feedback, lesson reports, and homework added by their tutor.
 
-**Q: How do I add grades for my subjects?**
+**Q: How do I add grades for my subjects?**  
 A: Choose from a broad list of subjects before adding grades. You can input one grade per subject per day, and a new grade added on the same day will overwrite the previous one.
 
 ### Technical Issues
 
-**Q: I'm experiencing technical issues with the app. What should I do?**
+**Q: I'm experiencing technical issues with the app. What should I do?**  
 A: Try the following troubleshooting steps:
 1. Make sure you are using the latest version of the app.
 2. Restart your device.
@@ -110,15 +121,15 @@ If the issue persists, please contact our technical support team at [contact.eds
 
 ### Privacy and Security
 
-**Q: How does EdSquared handle my data?**
+**Q: How does EdSquared handle my data?**  
 A: Read our [Privacy Policy](https://github.com/Cas-07/privacy-policy/blob/main/privacy-policy.md) to learn how we handle your data.
 
 ### Reporting and Feedback
 
-**Q: How can I provide feedback or suggestions to improve EdSquared?**
+**Q: How can I provide feedback or suggestions to improve EdSquared?**  
 A: Submit your suggestions by contacting us at [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com).
 
-**Q: How do I report content that violates the Terms of Service?**
+**Q: How do I report content that violates the Terms of Service?**  
 A: Send an email to [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com) with detailed information, including the content in question, the date the content was made, the admin code used to onboard students (if a student is reporting an admin), and the student's full name (if an admin is reporting a student). We will review your report and address your concerns as promptly as possible.
 
 ---
