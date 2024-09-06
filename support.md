@@ -10,6 +10,7 @@ Welcome to the EdSquared Support Page. Here you will find resources and contact 
 2. They will receive a verification email.
 3. Tutors need to verify their account using the code in the email.
 4. Once verified, they can send the verification code to their students to connect.
+5. As students register with that code, they will appear in the respective tutor's dashboard.
 
 ### What data can tutors and students see?
 
