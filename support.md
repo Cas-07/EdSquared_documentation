@@ -10,45 +10,55 @@ Welcome to the EdSquared Support Page. Here you will find resources and contact 
   - Search for **"EdSquared"** on the App Store or click [here](https://apps.apple.com/it/app/edsquared/id6615075755?l=en-GB).
 
 - **Account Setup**:
+
   - **For Students**:
     - Sign up on the **"Register"** screen.
     - Use the code provided by your tutor to connect with them.
-  - **For Tutors**:
-    - Sign up and check the **"Tutor"** checkbox to create an admin account.
-    - Verify your account using the code sent to your email.
-    - Send your unique verification code to students.
-    - Students who register with your code will appear in your dashboard.
 
-- **Navigating the App**:
-  - **Swipe Right to Go Back**:
-    - Swipe right to return to the previous screen for quick navigation.
-  - **Menu Navigation for Tutors**:
-    - Tap the **Menu** button at the bottom to access context-specific options.
-  - **Navigation for Students**:
-    - Use the **Back to Dashboard** button at the bottom to return to your main dashboard.
+  - **For Tutors**:
+    1. **Sign Up**: Sign up and check the **"Tutor"** checkbox to create an admin account.
+    2. **Email Verification**: You will receive a verification email with a code.
+    3. **Verify Account**: Use the code from the email to verify your account.
+    4. **Connect with Students**: Send your unique verification code to your students.
+    5. **Dashboard Integration**: Students who register with your code will appear in your dashboard.
+
+### Navigating the App
+
+- **Swipe Right to Go Back**:
+  - Swipe right to return to the previous screen for quick navigation.
+
+- **Menu Navigation for Tutors**:
+  - Tap the **Menu** button at the bottom to access context-specific options, which vary depending on where you are in the app.
 
 #### Tutor Navigation Details
 
 1. **Dashboard (List of Students)**:
+
    - **Menu Options**:
-     - **Sort Students by Last Name**
-     - **Remove Student**
+     - **Sort Students by Last Name**: Organize your student list alphabetically.
+     - **Remove Student**: Remove a student from your dashboard if necessary.
 
 2. **Student's Subjects View**:
-   - Select a student by tapping **"View"** to see their subjects.
+
+   - After selecting a student by tapping **"View"**, you will see their list of subjects.
    - **Menu Options**:
-     - **Add Grade**
-     - **Edit Subjects**
-     - **View/Edit Homework** (tap the **"Homework"** button)
-     - **Dashboard**
+     - **Add Grade**: Add grades for any of the student's subjects from this centralized screen.
+     - **Edit Subjects**: Modify the student's list of subjects directly where they are displayed.
+     - **View/Edit Homework**: Access and modify homework assignments for the student.
+       - To view or edit homework, tap the **"Homework"** button.
+     - **Dashboard**: Return to your main dashboard.
 
 3. **Subject's Grades View**:
-   - Select a subject to view past grades.
+
+   - By selecting a specific subject, you can view all past grades for that subject.
    - **Menu Options**:
-     - **View Report**
-     - **Add Report**
-     - **Feedback**
-     - **Dashboard**
+     - **View Report**: Access lesson reports specific to that subject and student.
+     - **Add Report**: Create a new lesson report for that subject.
+     - **Feedback**: Provide subject-specific feedback for the student.
+     - **Dashboard**: Return to your main dashboard.
+
+- **Navigation for Students**:
+  - Use the **Back to Dashboard** button at the bottom to return to your main dashboard.
 
 ### Forgot Password
 
@@ -67,47 +77,48 @@ If you've forgotten your password:
 
 ## Tutor and Student Features
 
-### Data Access
+### What data can tutors and students see?
 
 - **Tutors**:
-  - View all data from connected students: grades, grade types, records.
+  - View all data from connected students, including grades, grade types (e.g., end-of-year exam, coursework), and historical records.
   - Add lesson reports and feedback per student per subject.
-  - Access homework, edit subjects, and add grades for students.
+  - Access homework assignments and can edit subjects and grades on behalf of their students.
 
 - **Students**:
-  - View personal data: grades, grade types, feedback, lesson reports, homework.
+  - View their own data, including grades, grade types, feedback, lesson reports, and homework added by their tutor.
 
-### Grades and Subjects Management
+### How are grades and subjects managed?
 
 - **Grades**:
-  - One grade per subject per day; new grades overwrite previous ones.
+  - Students can input one grade per subject per day.
+  - New grades added on the same day will overwrite previous ones.
   - Select grade types when adding grades.
 
 - **Subjects**:
-  - Choose from a broad list before adding grades.
-  - Missing a subject? Contact [support](mailto:contact.edsquared@gmail.com).
+  - Students must choose from a broad list of subjects before adding grades.
+  - If a subject is missing, please contact support at [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com).
 
 - **Tutors**:
-  - Edit subjects and add grades for students.
-  - View past grades and provide feedback.
+  - Can edit subjects and add grades on behalf of their students.
+  - View past grades and provide specific feedback.
 
-### Admin Capabilities
+### What can admins do?
 
 - **Data Access**:
-  - View all students' grades and historical records.
+  - Admins can see all students' grade types, grades, and historical records.
 
 - **Lesson Reports and Feedback**:
   - Add subject-specific lesson reports visible to both admins and students.
   - Provide per-student, per-subject feedback.
 
 - **Homework Management**:
-  - Manage general homework per student from the subjects view.
+  - Manage general homework per student from the student's subjects view.
 
-### AI Feature for Tutors
+### How does the AI feature work for tutors?
 
 - **Enhancing Content**:
-  - Input keywords or drafts for feedback and reports.
-  - Use **"Write with AI"** to enhance text with AI-generated content.
+  - Input keywords or drafts for feedback and lesson reports.
+  - Use **"Write with AI"** to enhance and polish the text with AI-generated content.
 
 ## Community Resources
 
@@ -144,25 +155,16 @@ Read our [Privacy Policy](https://github.com/Cas-07/privacy-policy/blob/main/pri
 
 ### Tutors
 
-**Q: How do I create an admin account?**  
-**A:** Sign up, check **"Tutor"**, verify via email, and send your code to students.
-
-**Q: What data can I see?**  
-**A:** All data from your students, including grades and feedback.
-
 **Q: How do I navigate the app?**  
-**A:** Swipe right to go back. Use the **Menu** for options like sorting students, adding grades, editing subjects, managing homework, and accessing reports.
+**A:** Use swipe gestures and the **Menu** button for context-specific options. The menu options vary depending on the screen to provide relevant functionalities.
 
 **Q: Why does it say N/A for student grades?**  
-**A:** **N/A** means no grade has been added yet. Once added, it will display.
+**A:** **N/A** indicates that no grade has been added yet for that subject. Once a grade is added, it will display.
 
 **Q: How do I use the AI feature?**  
 **A:** Draft your content and tap **"Write with AI"** to enhance it.
 
 ### Students
-
-**Q: What data can I see?**  
-**A:** Your grades, feedback, lesson reports, and homework.
 
 **Q: How do I add grades?**  
 **A:** Select a subject and tap **"Add Grade"**. Only one grade per subject per day.
@@ -184,9 +186,6 @@ Read our [Privacy Policy](https://github.com/Cas-07/privacy-policy/blob/main/pri
 
 **Q: How can I provide feedback?**  
 **A:** Email us at [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com).
-
-**Q: How do I report a violation?**  
-**A:** Email us with details, and we'll address it promptly.
 
 ---
 
