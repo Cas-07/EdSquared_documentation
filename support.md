@@ -2,59 +2,6 @@
 
 Welcome to the EdSquared Support Page. Here you will find resources and contact information to help you with any issues or questions you may have about our app.
 
-## Tutor and Student Features
-
-### How do tutors create an admin account?
-
-1. **Sign Up**: Tutors can create an admin account by signing up on the app and checking the checkbox that says **"Tutor"**.
-2. **Email Verification**: You will receive a verification email with a code.
-3. **Verify Account**: Use the code from the email to verify your account.
-4. **Connect with Students**: Once verified, you can send your unique verification code to your students to connect with them.
-5. **Dashboard Integration**: As students register using your code, they will appear in your tutor dashboard.
-
-### What data can tutors and students see?
-
-- **Tutors**:
-  - Can view all data input by their connected students, including grades, grade types (e.g., end-of-year exam, coursework), and historical records.
-  - Can see and add lesson reports and give feedback per student per subject.
-  - Have access to homework assignments and can edit subjects and grades on behalf of their students.
-
-- **Students**:
-  - Can view their own data, including grades, grade types, feedback, lesson reports, and homework added by their tutor.
-
-### How are grades and subjects managed?
-
-- **Grades**:
-  - Students can input one grade per subject per day.
-  - If a new grade is added on the same day, it will overwrite the previous one.
-  - Grade types like end-of-year exam, coursework, etc., can be selected when adding grades.
-
-- **Subjects**:
-  - Students must choose from a broad list of subjects before adding grades.
-  - If a subject is missing, please contact support at [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com).
-
-- **Tutors**:
-  - Can edit subjects and add grades on behalf of their students.
-  - Can view all past grades for each subject and provide specific feedback.
-
-### What can admins do?
-
-- **Data Access**:
-  - Admins can see all students' grade types (e.g., end-of-year exam, coursework), grades, and historical records.
-
-- **Lesson Reports and Feedback**:
-  - Can add lesson reports, which are subject-specific and can be seen by both admins and students.
-  - Can provide feedback per student per subject.
-
-- **Homework Management**:
-  - Homework is general per student and can be viewed or edited from the student's subjects view.
-
-### How does the AI feature work for tutors?
-
-- **Enhancing Content**:
-  - Tutors can input keywords or draft feedback and lesson reports.
-  - Use the **"Write with AI"** feature to enhance and polish the text, replacing the tutor-written text with AI-generated content.
-
 ## User Guides
 
 ### Getting Started
@@ -146,6 +93,59 @@ If you've forgotten your password, follow these steps:
 
 - **Password Reset**:
   - If you forget your password, you can reset it by following the **"Forgot Password"** procedure outlined above.
+
+## Tutor and Student Features
+
+### How do tutors create an admin account?
+
+1. **Sign Up**: Tutors can create an admin account by signing up on the app and checking the checkbox that says **"Tutor"**.
+2. **Email Verification**: You will receive a verification email with a code.
+3. **Verify Account**: Use the code from the email to verify your account.
+4. **Connect with Students**: Once verified, you can send your unique verification code to your students to connect with them.
+5. **Dashboard Integration**: As students register using your code, they will appear in your tutor dashboard.
+
+### What data can tutors and students see?
+
+- **Tutors**:
+  - Can view all data input by their connected students, including grades, grade types (e.g., end-of-year exam, coursework), and historical records.
+  - Can see and add lesson reports and give feedback per student per subject.
+  - Have access to homework assignments and can edit subjects and grades on behalf of their students.
+
+- **Students**:
+  - Can view their own data, including grades, grade types, feedback, lesson reports, and homework added by their tutor.
+
+### How are grades and subjects managed?
+
+- **Grades**:
+  - Students can input one grade per subject per day.
+  - If a new grade is added on the same day, it will overwrite the previous one.
+  - Grade types like end-of-year exam, coursework, etc., can be selected when adding grades.
+
+- **Subjects**:
+  - Students must choose from a broad list of subjects before adding grades.
+  - If a subject is missing, please contact support at [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com).
+
+- **Tutors**:
+  - Can edit subjects and add grades on behalf of their students.
+  - Can view all past grades for each subject and provide specific feedback.
+
+### What can admins do?
+
+- **Data Access**:
+  - Admins can see all students' grade types (e.g., end-of-year exam, coursework), grades, and historical records.
+
+- **Lesson Reports and Feedback**:
+  - Can add lesson reports, which are subject-specific and can be seen by both admins and students.
+  - Can provide feedback per student per subject.
+
+- **Homework Management**:
+  - Homework is general per student and can be viewed or edited from the student's subjects view.
+
+### How does the AI feature work for tutors?
+
+- **Enhancing Content**:
+  - Tutors can input keywords or draft feedback and lesson reports.
+  - Use the **"Write with AI"** feature to enhance and polish the text, replacing the tutor-written text with AI-generated content.
 
 ## Community Resources
 
