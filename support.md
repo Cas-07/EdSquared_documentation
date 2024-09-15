@@ -10,9 +10,15 @@ Welcome to the EdSquared Support Page. Here you will find resources and contact 
   - Search for **"EdSquared"** on the App Store, or click on this link: [EdSquared on the App Store](https://apps.apple.com/it/app/edsquared/id6615075755?l=en-GB).
 
 - **Account Setup**:
-  - Sign up on the **"Register"** screen.
-  - Use the code provided by your tutor if you are a student.
-  - Tutors should check the checkbox that says **"Tutor"** to create an admin account.
+  - **For Students**:
+    - Sign up on the **"Register"** screen.
+    - Use the code provided by your tutor to connect with them.
+  - **For Tutors (Creating an Admin Account)**:
+    1. **Sign Up**: Sign up on the app and check the checkbox that says **"Tutor"** to create an admin account.
+    2. **Email Verification**: You will receive a verification email with a code.
+    3. **Verify Account**: Use the code from the email to verify your account.
+    4. **Connect with Students**: Once verified, you can send your unique verification code to your students to connect with them.
+    5. **Dashboard Integration**: As students register using your code, they will appear in your tutor dashboard.
 
 - **Navigating the App**:
 
@@ -53,20 +59,6 @@ Welcome to the EdSquared Support Page. Here you will find resources and contact 
      - **Feedback**: Provide feedback specific to the student and subject.
      - **Dashboard**: Return to your main dashboard.
 
-#### Student Navigation Details
-
-- **Dashboard**:
-  - Your main screen displays your subjects and latest grades.
-
-- **Navigating to Subjects**:
-  - Tap on a subject to view detailed information, including grades and feedback.
-
-- **Adding Grades**:
-  - Use the **"Add Grade"** button to input your latest grades for each subject.
-
-- **Returning to Dashboard**:
-  - Use the **Back to Dashboard** button at the bottom of the screen or swipe right to return to your main dashboard.
-
 ### Forgot Password
 
 If you've forgotten your password, follow these steps:
@@ -95,14 +87,6 @@ If you've forgotten your password, follow these steps:
   - If you forget your password, you can reset it by following the **"Forgot Password"** procedure outlined above.
 
 ## Tutor and Student Features
-
-### How do tutors create an admin account?
-
-1. **Sign Up**: Tutors can create an admin account by signing up on the app and checking the checkbox that says **"Tutor"**.
-2. **Email Verification**: You will receive a verification email with a code.
-3. **Verify Account**: Use the code from the email to verify your account.
-4. **Connect with Students**: Once verified, you can send your unique verification code to your students to connect with them.
-5. **Dashboard Integration**: As students register using your code, they will appear in your tutor dashboard.
 
 ### What data can tutors and students see?
 
@@ -190,10 +174,10 @@ Read our [Privacy Policy](https://github.com/Cas-07/privacy-policy/blob/main/pri
 ### Tutor-Specific Questions
 
 **Q: How do I create an admin account as a tutor?**  
-**A:** Sign up on the app, verify your account using the code sent to your email, and then you can send verification codes to your students to connect with them.
+**A:** Sign up on the app, check the checkbox that says **"Tutor"**, verify your account using the code sent to your email, and then you can send verification codes to your students to connect with them.
 
 **Q: What data can I see as a tutor?**  
-**A:** Tutors can see all data input by their connected students, including grades, grade types (e.g., end-of-year exam, coursework), historical records, lesson reports, and feedback per student per subject.
+**A:** Tutors can see all data input by their connected students, including grades, grade types, historical records, lesson reports, and feedback per student per subject.
 
 **Q: How do I navigate between different functions in the app as a tutor?**  
 **A:** EdSquared provides intuitive navigation options for tutors:
@@ -214,7 +198,7 @@ Read our [Privacy Policy](https://github.com/Cas-07/privacy-policy/blob/main/pri
 ### Student-Specific Questions
 
 **Q: What data can I see as a student?**  
-**A:** Students can see their own data, including grades, grade types (e.g., end-of-year exam, coursework), feedback, lesson reports, and homework added by their tutor.
+**A:** Students can see their own data, including grades, grade types, feedback, lesson reports, and homework added by their tutor.
 
 **Q: How do I add grades for my subjects?**  
 **A:** Choose from a broad list of subjects before adding grades. You can input one grade per subject per day, and a new grade added on the same day will overwrite the previous one.
