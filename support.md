@@ -7,163 +7,134 @@ Welcome to the EdSquared Support Page. Here you will find resources and contact 
 ### Getting Started
 
 - **Download and Install**:
-  - Search for **"EdSquared"** on the App Store, or click on this link: [EdSquared on the App Store](https://apps.apple.com/it/app/edsquared/id6615075755?l=en-GB).
+  - Search for **"EdSquared"** on the App Store or click [here](https://apps.apple.com/it/app/edsquared/id6615075755?l=en-GB).
 
 - **Account Setup**:
   - **For Students**:
     - Sign up on the **"Register"** screen.
     - Use the code provided by your tutor to connect with them.
-  - **For Tutors (Creating an Admin Account)**:
-    1. **Sign Up**: Sign up on the app and check the checkbox that says **"Tutor"** to create an admin account.
-    2. **Email Verification**: You will receive a verification email with a code.
-    3. **Verify Account**: Use the code from the email to verify your account.
-    4. **Connect with Students**: Once verified, you can send your unique verification code to your students to connect with them.
-    5. **Dashboard Integration**: As students register using your code, they will appear in your tutor dashboard.
+  - **For Tutors**:
+    - Sign up and check the **"Tutor"** checkbox to create an admin account.
+    - Verify your account using the code sent to your email.
+    - Send your unique verification code to students.
+    - Students who register with your code will appear in your dashboard.
 
 - **Navigating the App**:
-
   - **Swipe Right to Go Back**:
-    - Swiping the screen to the right will bring you back to the previous screen, allowing quick and easy navigation without needing to tap any buttons.
-
+    - Swipe right to return to the previous screen for quick navigation.
   - **Menu Navigation for Tutors**:
-    - Tap the **Menu** button at the bottom of the screen to access additional options, including returning to the dashboard.
-    - The menu options vary depending on the screen you are on, providing relevant functionalities for each context.
-
+    - Tap the **Menu** button at the bottom to access context-specific options.
   - **Navigation for Students**:
-    - Use the **Back to Dashboard** button at the bottom of the screen to return to your main dashboard.
+    - Use the **Back to Dashboard** button at the bottom to return to your main dashboard.
 
 #### Tutor Navigation Details
 
 1. **Dashboard (List of Students)**:
-
    - **Menu Options**:
-     - **Sort Students by Last Name**: Organize your student list alphabetically by last name for easier access.
-     - **Remove Student**: Remove a student from your dashboard if necessary.
+     - **Sort Students by Last Name**
+     - **Remove Student**
 
 2. **Student's Subjects View**:
-
-   - After selecting a student from your dashboard by tapping **"View"**, you will see the list of subjects associated with that student.
+   - Select a student by tapping **"View"** to see their subjects.
    - **Menu Options**:
-     - **Add Grade**: Add grades for the student across any of their subjects.
-     - **Edit Subjects**: Modify the list of subjects for the student.
-     - **View/Edit Homework**: Access and modify homework assignments for the student.
-       - To view or edit homework, tap the **"Homework"** button.
-     - **Dashboard**: Return to your main dashboard.
+     - **Add Grade**
+     - **Edit Subjects**
+     - **View/Edit Homework** (tap the **"Homework"** button)
+     - **Dashboard**
 
 3. **Subject's Grades View**:
-
-   - By selecting a specific subject from the student's subjects list, you can view all past grades for that subject.
+   - Select a subject to view past grades.
    - **Menu Options**:
-     - **View Report**: Access lesson reports specific to that subject and student.
-     - **Add Report**: Create a new lesson report for that subject.
-     - **Feedback**: Provide feedback specific to the student and subject.
-     - **Dashboard**: Return to your main dashboard.
+     - **View Report**
+     - **Add Report**
+     - **Feedback**
+     - **Dashboard**
 
 ### Forgot Password
 
-If you've forgotten your password, follow these steps:
+If you've forgotten your password:
 
-1. **Initiate Password Reset**:
-   - Click on **"Forgot Password?"** on the login page.
-
-2. **Enter New Password**:
-   - Input your email and your new password.
-
-3. **Get Verification Code**:
-   - Click on the **"Get Code"** button to receive a verification code via email.
-
-4. **Verify Code**:
-   - Input the received verification code in the **"Verification Code"** field.
-
-5. **Update Password**:
-   - Click the **"Update Password"** button to confirm the password change.
+1. **Initiate Reset**: Click **"Forgot Password?"** on the login page.
+2. **Enter Details**: Input your email and new password.
+3. **Get Code**: Click **"Get Code"** to receive a verification code via email.
+4. **Verify**: Enter the code in the **"Verification Code"** field.
+5. **Update**: Click **"Update Password"** to confirm.
 
 ### Password Management
 
-- **Password Safety**:
-  - To keep your account secure, we recommend using a password manager to store your password safely. This helps you remember your password and prevents unauthorized access.
-
-- **Password Reset**:
-  - If you forget your password, you can reset it by following the **"Forgot Password"** procedure outlined above.
+- **Safety**: Use a password manager to securely store your password.
+- **Reset**: Follow the **"Forgot Password"** steps if needed.
 
 ## Tutor and Student Features
 
-### What data can tutors and students see?
+### Data Access
 
 - **Tutors**:
-  - Can view all data input by their connected students, including grades, grade types (e.g., end-of-year exam, coursework), and historical records.
-  - Can see and add lesson reports and give feedback per student per subject.
-  - Have access to homework assignments and can edit subjects and grades on behalf of their students.
+  - View all data from connected students: grades, grade types, records.
+  - Add lesson reports and feedback per student per subject.
+  - Access homework, edit subjects, and add grades for students.
 
 - **Students**:
-  - Can view their own data, including grades, grade types, feedback, lesson reports, and homework added by their tutor.
+  - View personal data: grades, grade types, feedback, lesson reports, homework.
 
-### How are grades and subjects managed?
+### Grades and Subjects Management
 
 - **Grades**:
-  - Students can input one grade per subject per day.
-  - If a new grade is added on the same day, it will overwrite the previous one.
-  - Grade types like end-of-year exam, coursework, etc., can be selected when adding grades.
+  - One grade per subject per day; new grades overwrite previous ones.
+  - Select grade types when adding grades.
 
 - **Subjects**:
-  - Students must choose from a broad list of subjects before adding grades.
-  - If a subject is missing, please contact support at [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com).
+  - Choose from a broad list before adding grades.
+  - Missing a subject? Contact [support](mailto:contact.edsquared@gmail.com).
 
 - **Tutors**:
-  - Can edit subjects and add grades on behalf of their students.
-  - Can view all past grades for each subject and provide specific feedback.
+  - Edit subjects and add grades for students.
+  - View past grades and provide feedback.
 
-### What can admins do?
+### Admin Capabilities
 
 - **Data Access**:
-  - Admins can see all students' grade types (e.g., end-of-year exam, coursework), grades, and historical records.
+  - View all students' grades and historical records.
 
 - **Lesson Reports and Feedback**:
-  - Can add lesson reports, which are subject-specific and can be seen by both admins and students.
-  - Can provide feedback per student per subject.
+  - Add subject-specific lesson reports visible to both admins and students.
+  - Provide per-student, per-subject feedback.
 
 - **Homework Management**:
-  - Homework is general per student and can be viewed or edited from the student's subjects view.
+  - Manage general homework per student from the subjects view.
 
-### How does the AI feature work for tutors?
+### AI Feature for Tutors
 
 - **Enhancing Content**:
-  - Tutors can input keywords or draft feedback and lesson reports.
-  - Use the **"Write with AI"** feature to enhance and polish the text, replacing the tutor-written text with AI-generated content.
+  - Input keywords or drafts for feedback and reports.
+  - Use **"Write with AI"** to enhance text with AI-generated content.
 
 ## Community Resources
 
 - **Feedback and Suggestions**:
-  - We value your feedback! Submit your suggestions to help us improve EdSquared by contacting us at [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com).
+  - Share your ideas at [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com).
 
 ## Reporting Violations
 
-If you encounter any problems or need to report content that violates our Terms of Service, please send an email to [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com) with detailed information, including but not limited to:
+To report content violations, email us at [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com) with:
 
-- **The content in question**
-- **The date the content was made**
-- **The admin code used to onboard students** (if a student is reporting an admin)
-- **The student's full name** (if an admin is reporting a student)
+- **Content Details**
+- **Date of Occurrence**
+- **Admin Code** (if reporting an admin)
+- **Student's Full Name** (if reporting a student)
 
-We will review your report and address your concerns as promptly as possible.
+We will address your concerns promptly.
 
 ## Technical Support
 
-If you are experiencing technical issues with the app, please try the following troubleshooting steps:
+If experiencing issues:
 
-1. **Update the App**:
-   - Make sure you are using the latest version of the app.
+1. **Update the App**: Ensure it's the latest version.
+2. **Restart Device**: This may resolve temporary issues.
+3. **Check Internet**: Ensure a stable connection.
+4. **Reinstall App**: Uninstall and reinstall.
 
-2. **Restart Your Device**:
-   - Sometimes, simply restarting your device can resolve issues.
-
-3. **Check Internet Connection**:
-   - Ensure you have a stable internet connection.
-
-4. **Reinstall the App**:
-   - Uninstall and reinstall the app to fix any potential installation issues.
-
-If the issue persists, please contact our technical support team at [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com).
+If problems persist, contact [technical support](mailto:contact.edsquared@gmail.com).
 
 ## Privacy Policy
 
@@ -171,68 +142,54 @@ Read our [Privacy Policy](https://github.com/Cas-07/privacy-policy/blob/main/pri
 
 ## Frequently Asked Questions (FAQ)
 
-### Tutor-Specific Questions
+### Tutors
 
-**Q: How do I create an admin account as a tutor?**  
-**A:** Sign up on the app, check the checkbox that says **"Tutor"**, verify your account using the code sent to your email, and then you can send verification codes to your students to connect with them.
+**Q: How do I create an admin account?**  
+**A:** Sign up, check **"Tutor"**, verify via email, and send your code to students.
 
-**Q: What data can I see as a tutor?**  
-**A:** Tutors can see all data input by their connected students, including grades, grade types, historical records, lesson reports, and feedback per student per subject.
+**Q: What data can I see?**  
+**A:** All data from your students, including grades and feedback.
 
-**Q: How do I navigate between different functions in the app as a tutor?**  
-**A:** EdSquared provides intuitive navigation options for tutors:
+**Q: How do I navigate the app?**  
+**A:** Swipe right to go back. Use the **Menu** for options like sorting students, adding grades, editing subjects, managing homework, and accessing reports.
 
-- **Swipe Right**: To go back to the previous screen.
-- **Menu Options**: The menu button at the bottom of the screen offers context-specific options depending on where you are in the app.
-  - **Dashboard**: Sort or remove students.
-  - **Student's Subjects View**: Add grades, edit subjects, or manage homework.
-  - **Subject's Grades View**: View or add lesson reports and provide feedback.
-- **Dashboard Button**: Available in the menu for quick access back to your main dashboard.
+**Q: Why does it say N/A for student grades?**  
+**A:** **N/A** means no grade has been added yet. Once added, it will display.
 
-**Q: Why does it say N/A for all/any of my students' subjects in the grades column?**  
-**A:** If a student's grades are **N/A**, it means they haven't added any grade for that subject yet. Once a grade is added, it will appear in the "Grade" column, replacing **N/A**.
+**Q: How do I use the AI feature?**  
+**A:** Draft your content and tap **"Write with AI"** to enhance it.
 
-**Q: How do I use the AI feature to enhance feedback and lesson reports?**  
-**A:** Input keywords or draft your feedback and lesson reports, then use the **"Write with AI"** feature to enhance and polish the text with AI-generated content.
+### Students
 
-### Student-Specific Questions
+**Q: What data can I see?**  
+**A:** Your grades, feedback, lesson reports, and homework.
 
-**Q: What data can I see as a student?**  
-**A:** Students can see their own data, including grades, grade types, feedback, lesson reports, and homework added by their tutor.
+**Q: How do I add grades?**  
+**A:** Select a subject and tap **"Add Grade"**. Only one grade per subject per day.
 
-**Q: How do I add grades for my subjects?**  
-**A:** Choose from a broad list of subjects before adding grades. You can input one grade per subject per day, and a new grade added on the same day will overwrite the previous one.
-
-**Q: How do I navigate the app as a student?**  
-**A:** Use your dashboard to access your subjects and latest grades. Tap on a subject to view detailed information. Use the **"Add Grade"** button to input new grades. Swipe right or use the **Back to Dashboard** button at the bottom of the screen to return to your main dashboard.
+**Q: How do I navigate the app?**  
+**A:** Use your dashboard to access subjects. Swipe right or tap **Back to Dashboard** to navigate.
 
 ### Technical Issues
 
-**Q: I'm experiencing technical issues with the app. What should I do?**  
-**A:** Try the following troubleshooting steps:
-
-1. **Update the App**: Ensure you're using the latest version.
-2. **Restart Your Device**: This can resolve temporary issues.
-3. **Check Internet Connection**: A stable connection is required.
-4. **Reinstall the App**: Uninstall and reinstall the app.
-
-If the issue persists, contact our technical support team at [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com).
+**Q: I'm experiencing issues. What should I do?**  
+**A:** Update the app, restart your device, check your internet, or reinstall. Contact [support](mailto:contact.edsquared@gmail.com) if it continues.
 
 ### Privacy and Security
 
-**Q: How does EdSquared handle my data?**  
-**A:** Read our [Privacy Policy](https://github.com/Cas-07/privacy-policy/blob/main/privacy-policy.md) to learn how we handle your data.
+**Q: How is my data handled?**  
+**A:** See our [Privacy Policy](https://github.com/Cas-07/privacy-policy/blob/main/privacy-policy.md).
 
 ### Reporting and Feedback
 
-**Q: How can I provide feedback or suggestions to improve EdSquared?**  
-**A:** Submit your suggestions by contacting us at [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com).
+**Q: How can I provide feedback?**  
+**A:** Email us at [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com).
 
-**Q: How do I report content that violates the Terms of Service?**  
-**A:** Send an email to [contact.edsquared@gmail.com](mailto:contact.edsquared@gmail.com) with detailed information, including the content in question, the date it was made, and relevant user details. We will review your report promptly.
+**Q: How do I report a violation?**  
+**A:** Email us with details, and we'll address it promptly.
 
 ---
 
-Thank you for using EdSquared. We are here to help you succeed in your educational journey.
+Thank you for using EdSquared. We're here to support your educational journey.
 
 EdSquared
