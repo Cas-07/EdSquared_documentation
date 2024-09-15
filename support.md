@@ -27,6 +27,9 @@ Welcome to the EdSquared Support Page. Here you will find resources and contact 
 - **Swipe Right to Go Back**:
   - Swipe right to return to the previous screen for quick navigation.
 
+- **Home Icon for Dashboard**:
+  - A **Home** icon is located at the top right corner of the screen. Tap this icon to return to your main dashboard at any time.
+
 - **Menu Navigation for Tutors**:
   - Tap the **Menu** button at the bottom to access context-specific options, which vary depending on where you are in the app.
 
@@ -46,7 +49,8 @@ Welcome to the EdSquared Support Page. Here you will find resources and contact 
      - **Edit Subjects**: Modify the student's list of subjects directly where they are displayed.
      - **View/Edit Homework**: Access and modify homework assignments for the student.
        - To view or edit homework, tap the **"Homework"** button.
-     - **Dashboard**: Return to your main dashboard.
+   - **Return to Dashboard**:
+     - Tap the **Home** icon at the top right corner to go back to your main dashboard.
 
 3. **Subject's Grades View**:
 
@@ -55,10 +59,12 @@ Welcome to the EdSquared Support Page. Here you will find resources and contact 
      - **View Report**: Access lesson reports specific to that subject and student.
      - **Add Report**: Create a new lesson report for that subject.
      - **Feedback**: Provide subject-specific feedback for the student.
-     - **Dashboard**: Return to your main dashboard.
+   - **Return to Dashboard**:
+     - Tap the **Home** icon at the top right corner to go back to your main dashboard.
 
 - **Navigation for Students**:
   - Use the **Back to Dashboard** button at the bottom to return to your main dashboard.
+  - Alternatively, tap the **Home** icon at the top right corner to return to the dashboard.
 
 ### Forgot Password
 
@@ -156,7 +162,7 @@ Read our [Privacy Policy](https://github.com/Cas-07/privacy-policy/blob/main/pri
 ### Tutors
 
 **Q: How do I navigate the app?**  
-**A:** Use swipe gestures and the **Menu** button for context-specific options. The menu options vary depending on the screen to provide relevant functionalities.
+**A:** Use swipe gestures and the **Menu** button for context-specific options. To return to your dashboard, tap the **Home** icon at the top right corner.
 
 **Q: Why does it say N/A for student grades?**  
 **A:** **N/A** indicates that no grade has been added yet for that subject. Once a grade is added, it will display.
@@ -170,7 +176,7 @@ Read our [Privacy Policy](https://github.com/Cas-07/privacy-policy/blob/main/pri
 **A:** Select a subject and tap **"Add Grade"**. Only one grade per subject per day.
 
 **Q: How do I navigate the app?**  
-**A:** Use your dashboard to access subjects. Swipe right or tap **Back to Dashboard** to navigate.
+**A:** Use your dashboard to access subjects. Swipe right or tap the **Home** icon at the top right corner to navigate back to your dashboard.
 
 ### Technical Issues
 
